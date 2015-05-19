@@ -4,6 +4,6 @@
 #
 
 directory "/tmp/foo/bar" do
-  owner "foobar"
+  #owner "foobar"
   recursive true
 end
